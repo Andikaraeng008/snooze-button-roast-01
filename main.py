@@ -8,9 +8,8 @@ to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 import os
 
 LINE = (
-    "My alarm clock went off at 6 AM on a Saturday, "
-    "so I snoozed it nine times \u2014 "
-    "then it filed a noise complaint against me."
+    "At 6 AM on a Saturday my alarm clock screamed like a fire drill, "
+    "so I evacuated \u2014 straight back under the blanket."
 )
 
 
